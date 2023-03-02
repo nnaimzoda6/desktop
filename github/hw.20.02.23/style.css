@@ -1,0 +1,235 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    color: black;
+    font-size: 15px;
+    overflow-x: hidden;
+    font-family: Verdana, sans-serif;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+body{
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    margin: 0;
+}
+nav{
+    padding: 8px 16px;
+    font-size: 18px;
+    top: 0;
+    height: 100%;
+    position: fixed;
+    color: white;
+    background-color:  #f44336;
+    font-weight: bold;
+    width: 300px;
+    padding: 8px 16px;
+}
+.text{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 0;
+    font-size: 34px;
+    color: #fff;
+}
+.texts a{
+    background-color: #fff;
+    display: block;
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+    display: block;
+    padding: 8px 16px;
+    text-align: left;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    cursor: pointer;
+    font-size: 28px;
+}
+.box{
+    margin-top: 80px;
+    padding: 0.01em 16px;
+    margin-left: 380px;
+    margin-right: 40px;
+}
+.box2 .tex{
+    font-size: 74px;
+    font-family: "Poppins", sans-serif;
+}
+.box .tex2{
+    color: #f44336;
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+}
+hr {
+    width: 50px;
+    border: 5px solid red;
+    border-radius: 4px;
+}
+.foto{
+    width: 100%;
+    display: flex;
+    cursor: pointer;
+    opacity: 0.8;
+    justify-content: space-between;
+}
+.foto1{
+    margin-left: 10%;
+}
+.foto2{
+
+    margin-right: 10% ;
+}
+img{
+    opacity: 0.8;
+    margin-top: 16px;
+    width: 49.99999%;
+    margin-left: 390px;
+}
+.box3{
+    font-size: 35px;
+    margin: 75px 0px 0px;
+    margin-top: 80px;
+    padding: 0.01em 16px;
+    margin-left: 380px;
+    margin-right: 40px;
+}
+.tex3 b{
+    color: #f44336;
+    font-size: 65px;
+    font-family: "Poppins", sans-serif;
+
+}
+.text3 p{
+    width:10px;
+    font-size: 15px;
+    margin: 16px 0px;
+}
+.box4{
+    font-size: 35px;
+    margin: 75px 0px 0px;
+    margin-top: 80px;
+    padding: 0.01em 16px;
+    margin-left: 380px;
+    margin-right: 40px;
+}
+.tex4 b{
+    color: #f44336;
+    font-size: 65px;
+    font-family: "Poppins", sans-serif;
+
+}
+.text4 p{
+    color: #f44336;
+    width:10px;
+    font-size: 15px;
+    margin: 16px 0px;
+}
+
+.txt{
+    margin-bottom: 10px;
+    width: 90%;
+    height: 35vh;
+    background-color: #f1f1f1;
+}
+.text{
+    padding: 0;
+    padding-left: 8px;
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.text2{
+    opacity: 0.60;
+    padding: 0;
+    padding-left: 8px;
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.8;
+
+}
+.text3{
+    font-size: 16px;
+    font-family: "Poppins" , sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 8px;
+}
+.txtt{
+    margin-bottom: 10px;
+    width: 90%;
+    height: 35vh;
+    background-color: #f1f1f1;
+}
+.textt{
+    padding: 0;
+    padding-left: 8px;
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.textt2{
+    opacity: 0.60;
+    padding: 0;
+    padding-left: 8px;
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.textt3{
+    font-size: 16px;
+    font-family: "Poppins" , sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 8px;
+}
+.teamm3{
+    height: 30vh; 
+}
+.txttt{
+    margin-bottom: 10px;
+    width: 90%;
+    height: 35vh;
+    background-color: #f1f1f1;
+}
+.texttt{
+    padding: 0;
+    padding-left: 8px;
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.texttt2{
+    opacity: 0.60;
+    padding: 0;
+    padding-left: 8px;
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.texttt3{
+    font-size: 16px;
+    font-family: "Poppins" , sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 8px;
+}

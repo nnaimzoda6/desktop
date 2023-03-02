@@ -1,0 +1,26 @@
+.conteyner{
+    margin: auto;
+}
+.rang{
+    width: 100%;
+}
+.box{
+    background-color: red;
+    width: 2000px;
+    height: 200px;
+
+}
+.box1{
+    background-color:yellow
+    width: 100px;
+    height: 200px; 
+    color: gold;
+    margin: auto;
+    font-size: 190px;
+}
+.box2{
+    background-color: green;
+    width: 2000px;
+    height: 200px;
+}
+

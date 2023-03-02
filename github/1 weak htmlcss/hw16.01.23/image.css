@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(7, 7, 28);
+}
+nav ul li{
+    font-size: 30px;
+    width: 25%;
+    color: aliceblue;
+    margin-left: 20px;
+    text-align: center;
+    list-style-type: none;
+    padding: 10px 0;
+    box-shadow: 5px 15px 65px 5px blue;
+
+}
+nav ul {
+    display: flex;
+    width: 100%;
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.fotto{
+    display: flex;
+}
+.ww0{
+    width: 40%;
+    gap: 30px;
+    
+}
+.ww0 img{
+    margin-left: 8%;
+    margin-top: 10%;
+    width: 380px;
+    margin-right: 10%;
+    border-radius: 10%;
+}

@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: skyblue;
+
+}
+.form-container{
+    width: 80%;
+    margin: auto;
+    background-color: skyblue;
+    margin-top:55px;
+    margin: auto;
+}
+form{
+    width: 50%;
+    margin:10px auto;
+}
+fieldset{
+    padding: 15px;
+}
+
+form div:not(:last-child){
+    margin-bottom: 25px;
+}
+
+
+input,label{
+    display: block;
+}
+.all{
+    display: flex;
+}
+.one{
+    text-align: end;
+    padding: 1%;
+}
+.two{
+    padding: 1%;
+    margin-left: 0px;
+}
